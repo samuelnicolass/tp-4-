@@ -16,3 +16,7 @@ border-color: black;
 color: white;} 
 div.card{margin-right: 10px;}
 div.container-fluid {background-color: bisque;}
+div.fuentes {display: flex;
+margin-left: 10%;}
+div.discos {display: flex;
+margin-left: 10%;}
