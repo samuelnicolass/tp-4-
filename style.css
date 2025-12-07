@@ -1,0 +1,18 @@
+div.titulo {background-color: gray;
+border-color: black;
+color: white;}
+body {background-color: bisque;
+font-family: 'Times New Roman', Times, serif;}
+div.AMD {display: flex;
+margin-left: 10%;
+}
+div.Intel {display: flex;
+margin-left: 10%;}
+div.indicador {background-color: gray;
+margin-left: 40%;
+margin-right: 40%;
+border-radius: 20%;
+border-color: black;
+color: white;} 
+div.card{margin-right: 10px;}
+div.container-fluid {background-color: bisque;}
